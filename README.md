@@ -1,1 +1,1 @@
-# CS550
+massive data mining lectures
